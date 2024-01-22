@@ -8,6 +8,8 @@ Welcome to my corner of the internet, where I explore the realms of coding and c
 
 - **Name:** Devesh
 - **Location:** New York
+- **School:** Queens High School for the Sciences at York College 
+- **GPA:** 97.43
 
 ## Projects
 
@@ -25,6 +27,18 @@ Explore some of my recent projects:
 4. **AICamp:** Program with AICamp to learn fundamentals of website building and AI.
 5. **InspiritAI:** Mainly a program but also an internship with InspiritAI to learn about AI in healthcare and businesses.
 6. **School:** Proud president of QHSS Physics club, Co-Leader of QHSS Tennis, member of Key Club, QHSS ReStem club, and occasionally QHSS Hack.
+7. **Arista**: Member of Arista, the National Honors Society.
+8. **Other:** Religious volunteering and job, volunteer for cancer awareness, lessons in music and voice, etc(too lazy)...
+
+## Awards:
+1. **Principle Honors Role(2021-Present)**
+2. **Tennis Team Player(2023)**
+3. **NYJTL Citation Award from Scott Daly(2023)**
+4. **NYJTL Volunteer Award from Christian Georges(2022)**
+5. **NYU CS4CS Certificate of Completion**
+6. **Religious Student of the Community Award(2023)**
+7. **AICAMP Certificate of Completion**
+8. **InspiritAI Certificate of Completion**
 
 ## Contact
 
