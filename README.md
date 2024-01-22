@@ -3,7 +3,7 @@
 
 Heyyy, I'm Devesh! 👋
 
-Welcome to my corner of the internet, where I explore the realms of coding and creativity. I'm currently a junior at Queens high School for the Sciences at York college hoping to pursue a career in computer science or engineering(aerospace?) or even in physics. As a passionate developer, I embark on exciting projects and share my journey through this space. More changes on the way
+Welcome to my corner of the internet, where I explore the realms of coding and creativity. I'm currently a junior at Queens high School for the Sciences at York college hoping to pursue a career in computer science or engineering(aerospace?) or even in physics. As a passionate developer, I embark on exciting projects and share my journey through this space. More changes on the way(trust)!
 
 ## About Me
 
