@@ -42,4 +42,4 @@ Explore some of my recent projects:
 
 ## Contact
 
-If you have any questions, ideas, or just want to connect, don't hesitate to reach out. You can find me on [Gmail](mailto:deveshtajeshwar@gmail.com).
+If you have any questions, ideas, or just want to connect, don't hesitate to reach out. You can find me on Gmail at [Deveshtajeshwar@gmail.com](mailto:deveshtajeshwar@gmail.com).
