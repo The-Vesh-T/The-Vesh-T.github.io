@@ -1,7 +1,3 @@
----
-layout: default
-title: Devesh's Space
----
 
 # Devesh's Coding Haven 🚀
 
@@ -31,4 +27,3 @@ I occasionally share my thoughts and insights on my [blog](link-to-blog). Feel f
 
 If you have any questions, ideas, or just want to connect, don't hesitate to reach out. You can find me on [LinkedIn](link-to-linkedin) and [Twitter](link-to-twitter).
 
-Happy coding! 🌐💻
