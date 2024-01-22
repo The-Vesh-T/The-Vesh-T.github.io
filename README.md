@@ -1,4 +1,4 @@
-# Devesh's Digital Home
+# Devesh's Little Coding Galaxy
 
 Heyyy, I'm Devesh! 👋
 
