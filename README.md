@@ -17,7 +17,7 @@ Explore some of my recent projects:
 
 1. [What Factors Affect the Social Progress Index?](http://tinyurl.com/SPIWORLD): Uncover the mysteries behind the Social Progress Index.
 2. [PewPew]((http://tinyurl.com/MagicRage)): Short little shooting game I created using code.org!
-3. [???](): More exciting projects on the horizon...
+3. [Coming Soon ;)](): More exciting projects on the horizon...
 
 ## What I Do!
 
